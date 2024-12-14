@@ -1,4 +1,4 @@
-This repository contains my final CA Assignment from the Introduction to Artificial Intelligence module, completed during my third year of Computer Science studies at TU Dublin.
+This repository contains my final CA assignment from the Introduction to Artificial Intelligence module, completed during my third year of Computer Science studies at TU Dublin.
 
 # Assignment Overview  
 
