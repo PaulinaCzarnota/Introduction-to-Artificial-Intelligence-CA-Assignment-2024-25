@@ -24,3 +24,5 @@ The assignment was implemented using **Python** and **Jupyter Notebook**, applyi
 - **Model Development**: Gained hands-on experience in designing and optimizing neural networks.  
 - **Performance Tuning**: Experimented with loss functions, learning rates, and hidden neurons.  
 - **Practical Application**: Validated MLP performance in solving real-world classification tasks effectively.  
+
+## Grade Received: 97%
