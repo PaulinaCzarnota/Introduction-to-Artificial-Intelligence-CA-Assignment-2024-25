@@ -25,4 +25,4 @@ The assignment was implemented using **Python** and **Jupyter Notebook**, applyi
 - **Performance Tuning**: Experimented with loss functions, learning rates, and hidden neurons.  
 - **Practical Application**: Validated MLP performance in solving real-world classification tasks effectively.  
 
-# Grade Received: 97%
+## Grade Received: 97%
